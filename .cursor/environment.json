@@ -1,0 +1,5 @@
+{
+  "$schema": "https://www.cursor.com/schemas/environment.schema.json",
+  "name": "arcomurray",
+  "install": "true"
+}
